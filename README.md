@@ -1,0 +1,2 @@
+# Asia-Royal-Token
+MIT
